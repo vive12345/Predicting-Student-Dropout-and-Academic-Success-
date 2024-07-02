@@ -1,10 +1,14 @@
 # Health Manager Tracker using python and machine learning Technologies
 
-##Technologies and tools 
+## Technologies and tools 
 -frontend : HTML5, CSS, JavaScript, Bootstrap, Jquery.
+
 -Backend : Python (Flask-jinja template).
+
 -Machine Learning : KNN algorithm, datasets of exercise and food. 
+
 -External APIS : Twilio, sheety, Nutrionix, News.
+
 -DataBase : MySQL.
 
 ## Objective
